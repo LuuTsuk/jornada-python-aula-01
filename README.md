@@ -105,16 +105,6 @@ Dessa forma, o mesmo processo é repetido automaticamente até que todos os prod
 
 ---
 
-## 📸 Fotos e vídeos do projeto
-
-Esta seção é destinada aos registros da execução do programa.
-
-### 🖥️ Execução do programa
-
-[▶️ Assistir ao vídeo da automação](./assets/0923.mp4)
-
----
-
 ## 📖 O que aprendi
 
 A aula me permitiu conhecer uma aplicação prática do **Python para automação de tarefas**, mostrando como uma sequência de ações realizadas manualmente pode ser transformada em um processo automatizado.
