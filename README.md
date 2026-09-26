@@ -105,6 +105,22 @@ Dessa forma, o mesmo processo é repetido automaticamente até que todos os prod
 
 ---
 
+### 📚 Projeto apresentado na apostila
+
+<p align="center">
+  <img src="./assets/navegador.png" alt="Execução da automação em Python para acessar o navegador" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/login.png" alt="Execução da automação em Python para fazer o login" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/cadastro-produtos.png" alt="Execução da automação em Python para cadastrar os produtos" width="800">
+</p>
+
+---
+
 ## 📖 O que aprendi
 
 A aula me permitiu conhecer uma aplicação prática do **Python para automação de tarefas**, mostrando como uma sequência de ações realizadas manualmente pode ser transformada em um processo automatizado.
